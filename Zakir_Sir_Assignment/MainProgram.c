@@ -2,8 +2,7 @@
 void main()
 
 {
-
-    //getSumAvg();
+    getSumAvg();
    // getSquareRoot();
     //getMax();
     //getEvenNumbers();
@@ -11,5 +10,6 @@ void main()
     //firstLastDigit();
    //checkPrime();
    //pyramidOfNumbers() ;
-    matrixSum ();
+    //matrixSum ();
+    //infiniteLoop();
 }
