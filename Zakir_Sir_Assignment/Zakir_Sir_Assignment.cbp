@@ -37,6 +37,9 @@
 		<Unit filename="QS-1.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="QS-10.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Unit filename="QS-2.c">
 			<Option compilerVar="CC" />
 		</Unit>
