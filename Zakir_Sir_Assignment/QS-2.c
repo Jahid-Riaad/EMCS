@@ -9,7 +9,7 @@ int getSquareRoot() {
    printf("\n Enter a number to find the square root of it: ");
    scanf("%lf", &number);
 
-   // Computing the square root
+   // Computing the square root using built in function
    squareRoot = sqrt(number);
 
    printf("\n Square root of %.2lf =  %.2lf", number, squareRoot);

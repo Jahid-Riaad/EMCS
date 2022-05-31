@@ -9,6 +9,8 @@ int dayOfWeek()
     int day;
 
     /* Getting input day number from user*/
+
+    printf("\n Assuming \"Saturday\" as the first day of week.");
     printf("\n Enter day number(1-7): ");
     scanf("%d", &day);
 
@@ -37,7 +39,6 @@ int dayOfWeek()
         break;
     default:
         printf("Invalid input! Please enter day number between 1-7.");
-        dayOfWeek();
 
     }
     printf("\n -----------------------------");
